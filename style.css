@@ -1,0 +1,261 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to bottom, #0a0e27 0%, #1a1d3a 50%, #2a2d4a 100%);
+    color: #ffffff;
+    overflow-x: hidden;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(10, 14, 39, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 20px 40px;
+    z-index: 100;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1 {
+    font-size: 28px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.current-date {
+    font-size: 48px;
+    font-weight: 700;
+    color: #ff6b6b;
+    text-shadow: 0 0 20px rgba(255, 107, 107, 0.5);
+    min-width: 300px;
+    text-align: center;
+}
+
+.stats {
+    font-size: 16px;
+    color: #88ddff;
+    font-weight: 500;
+}
+
+.stats span {
+    font-size: 24px;
+    font-weight: 700;
+    color: #66ccff;
+}
+
+.instructions {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+    font-style: italic;
+}
+
+.timeline-sidebar {
+    position: fixed;
+    left: 30px;
+    top: 120px;
+    bottom: 40px;
+    width: 80px;
+    z-index: 50;
+}
+
+.timeline-track {
+    position: absolute;
+    left: 35px;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 2px;
+}
+
+.timeline-progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(to bottom, #ff6b6b, #ee5a6f);
+    border-radius: 2px;
+    transition: height 0.1s ease-out;
+}
+
+.timeline-marker {
+    position: absolute;
+    left: -6px;
+    width: 16px;
+    height: 16px;
+    background: #ff6b6b;
+    border: 3px solid #ffffff;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(255, 107, 107, 0.8);
+    transition: top 0.1s ease-out;
+}
+
+.timeline-labels {
+    position: absolute;
+    left: 50px;
+    top: 0;
+    bottom: 0;
+    width: 100px;
+}
+
+.timeline-label {
+    position: absolute;
+    font-size: 11px;
+    color: rgba(255, 255, 255, 0.6);
+    white-space: nowrap;
+}
+
+.map-container {
+    position: fixed;
+    top: 100px;
+    left: 140px;
+    right: 40px;
+    bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#worldMap {
+    width: 100%;
+    height: 100%;
+    max-width: 1200px;
+    filter: drop-shadow(0 0 30px rgba(0, 0, 0, 0.5));
+}
+
+.map-outline {
+    fill: none;
+    stroke: rgba(255, 255, 255, 0.3);
+    stroke-width: 1;
+}
+
+.map-land {
+    fill: rgba(120, 160, 140, 0.4);
+    stroke: rgba(255, 255, 255, 0.5);
+    stroke-width: 1;
+    transition: fill 0.3s ease;
+}
+
+.map-land:hover {
+    fill: rgba(150, 190, 170, 0.6);
+}
+
+.invention-dot {
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.invention-dot circle {
+    fill: url(#dotGlow);
+    animation: pulse 2s infinite;
+}
+
+.invention-dot .dot-core {
+    fill: #ff3333;
+    filter: drop-shadow(0 0 10px rgba(255, 50, 50, 0.9));
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+    50% {
+        opacity: 0.6;
+        transform: scale(1.2);
+    }
+}
+
+.invention-dot:hover .dot-core {
+    fill: #ffff00;
+    filter: drop-shadow(0 0 15px rgba(255, 255, 0, 1));
+}
+
+.tooltip {
+    position: fixed;
+    background: rgba(20, 20, 40, 0.98);
+    border: 2px solid rgba(255, 107, 107, 0.5);
+    border-radius: 8px;
+    padding: 15px;
+    max-width: 300px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 200;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+.tooltip.visible {
+    opacity: 1;
+}
+
+.tooltip-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #ff6b6b;
+    margin-bottom: 8px;
+}
+
+.tooltip-date {
+    font-size: 14px;
+    color: #ffffff;
+    margin-bottom: 6px;
+}
+
+.tooltip-location {
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 8px;
+    font-style: italic;
+}
+
+.tooltip-description {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.8);
+    line-height: 1.5;
+}
+
+.scroll-spacer {
+    height: 10000px;
+}
+
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        gap: 10px;
+        padding: 15px 20px;
+    }
+    
+    .header h1 {
+        font-size: 20px;
+    }
+    
+    .current-date {
+        font-size: 32px;
+    }
+    
+    .timeline-sidebar {
+        left: 10px;
+        width: 60px;
+    }
+    
+    .map-container {
+        left: 80px;
+        right: 20px;
+    }
+}

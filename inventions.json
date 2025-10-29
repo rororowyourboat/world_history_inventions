@@ -1,0 +1,1050 @@
+[
+  {
+    "name": "Acheulean",
+    "date": -1760000,
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "location": "Kenya",
+    "description": "Advanced (Acheulean) stone tools in Kenya by Homo erectus"
+  },
+  {
+    "name": "Bone tools",
+    "date": -1500000,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Africa",
+    "description": "Bone tools in Africa by Homo erectus and/or Paranthropus boisei"
+  },
+  {
+    "name": "Hafting",
+    "date": -500000,
+    "lat": -30.5595,
+    "lng": 22.9375,
+    "location": "South Africa",
+    "description": "Hafting in South Africa by Homo heidelbergensis"
+  },
+  {
+    "name": "Woodworking",
+    "date": -500000,
+    "lat": -13.1339,
+    "lng": 27.8493,
+    "location": "Zambia",
+    "description": "– 450 kya: Woodworking construction in Zambia by Homo heidelbergensis (The oldest known surviving buildings are made from stone and date back no more than 9,500 years.)"
+  },
+  {
+    "name": "Pigments",
+    "date": -400000,
+    "lat": -13.1339,
+    "lng": 27.8493,
+    "location": "Zambia",
+    "description": "Pigments in Zambia by Homo heidelbergensis"
+  },
+  {
+    "name": "Schöningen",
+    "date": -337000,
+    "lat": 51.1657,
+    "lng": 10.4515,
+    "location": "Germany",
+    "description": "– 300 kya: Schöningen Spears in Germany likely by Homo heidelbergensis or early Neandarthals."
+  },
+  {
+    "name": "trade",
+    "date": -320000,
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "location": "Kenya",
+    "description": "The trade and long-distance (up to 50 miles) transportation of resources (e.g. obsidian), use of pigments, and possible making of projectile points in Kenya"
+  },
+  {
+    "name": "Hafting",
+    "date": -279000,
+    "lat": 9.145,
+    "lng": 40.4897,
+    "location": "Ethiopia",
+    "description": "Hafting and early stone-tipped projectile weapons in Ethiopia"
+  },
+  {
+    "name": "adhesive",
+    "date": -200000,
+    "lat": 41.8719,
+    "lng": 12.5674,
+    "location": "Central Italy",
+    "description": "Simple glue (adhesive) made of one kind of material, birch tar, in Central Italy by Neanderthals."
+  },
+  {
+    "name": "Beds",
+    "date": -200000,
+    "lat": -30.5595,
+    "lng": 22.9375,
+    "location": "South Africa",
+    "description": "Beds in South Africa."
+  },
+  {
+    "name": "Clothing",
+    "date": -170000,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Africa",
+    "description": "– 90 kya: Clothing, among anatomically modern humans in Africa. Genetic evidence from body lice suggests a range of dates centering over 100 thousand years ago. The first bone scrapers appropriate for"
+  },
+  {
+    "name": "Beads",
+    "date": -135000,
+    "lat": 31.0461,
+    "lng": 34.8516,
+    "location": "Israel and Algeria",
+    "description": "– 100 kya: Beads in Israel and Algeria — implying string or thread"
+  },
+  {
+    "name": "paints",
+    "date": -100000,
+    "lat": -30.5595,
+    "lng": 22.9375,
+    "location": "South Africa",
+    "description": "Compound paints made in South Africa"
+  },
+  {
+    "name": "burial",
+    "date": -100000,
+    "lat": 31.0461,
+    "lng": 34.8516,
+    "location": "Israel",
+    "description": "Funerals (in the form of burial) in Israel"
+  },
+  {
+    "name": "Sibudu Cave",
+    "date": -70000,
+    "lat": -30.5595,
+    "lng": 22.9375,
+    "location": "Sibudu Cave in South Africa",
+    "description": "– 60 kya in Sibudu Cave in South Africa by Homo sapiens: Compound adhesives Arrows and other evidence of bow-and-arrow technology Sewing needle (implying thread of some kind)"
+  },
+  {
+    "name": "Cave painting",
+    "date": -61000,
+    "lat": 40.4637,
+    "lng": -3.7492,
+    "location": "Spain",
+    "description": "– 62 kya: Cave painting in Spain by Neanderthal"
+  },
+  {
+    "name": "shoes",
+    "date": -45000,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China, Fort Rock Cave",
+    "description": "– 9 kya: Earliest evidence of shoes, suggested by changes in foot bone morphology in China by Tianyuan man. The earliest physical shoes found so far are bark sandals dated to 10 to 9 kya in Fort Rock "
+  },
+  {
+    "name": "Tally sticks",
+    "date": -44000,
+    "lat": -26.5225,
+    "lng": 31.4659,
+    "location": "Eswatini",
+    "description": "– 42 kya: Tally sticks (see Lebombo bone) in Eswatini"
+  },
+  {
+    "name": "Flute",
+    "date": -42000,
+    "lat": 51.1657,
+    "lng": 10.4515,
+    "location": "Germany",
+    "description": "Flute in Germany"
+  },
+  {
+    "name": "Mortar and pestle",
+    "date": -37000,
+    "lat": 30.0,
+    "lng": 45.0,
+    "location": "Southwest Asia",
+    "description": "Mortar and pestle in Southwest Asia"
+  },
+  {
+    "name": "Ceramics",
+    "date": -28000,
+    "lat": 49.5938,
+    "lng": 17.2509,
+    "location": "Moravia",
+    "description": "Ceramics (direct evidence) and weaving (impressions left in the ceramics) in Moravia (Czech Republic) and Georgia. (The oldest piece of woven cloth found so far was in Çatalhöyük, Turkey and dated to "
+  },
+  {
+    "name": "Domestication of the dog",
+    "date": -23000,
+    "lat": 60.0,
+    "lng": 105.0,
+    "location": "Siberia",
+    "description": "Domestication of the dog in Siberia."
+  },
+  {
+    "name": "Fish hook",
+    "date": -22000,
+    "lat": 26.3344,
+    "lng": 127.8056,
+    "location": "Okinawa Island",
+    "description": "Fish hook in Okinawa Island, modern day Japan."
+  },
+  {
+    "name": "Spear-thrower",
+    "date": -17500,
+    "lat": 46.2276,
+    "lng": 2.2137,
+    "location": "France",
+    "description": "Spear-thrower (atlatl), found in France."
+  },
+  {
+    "name": "Bread",
+    "date": -14500,
+    "lat": 30.5852,
+    "lng": 36.2384,
+    "location": "Jordan",
+    "description": "Bread in Jordan"
+  },
+  {
+    "name": "Oldest known surviving building",
+    "date": -9500,
+    "lat": 38.9637,
+    "lng": 35.2433,
+    "location": "Turkey",
+    "description": "– 9000 BC: Oldest known surviving building – Göbekli Tepe, in Turkey"
+  },
+  {
+    "name": "Domestication of rice",
+    "date": -9000,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China",
+    "description": "– 6000 BC: Domestication of rice in China"
+  },
+  {
+    "name": "Mudbricks",
+    "date": -9000,
+    "lat": 31.8558,
+    "lng": 35.4467,
+    "location": "Jericho",
+    "description": "Mudbricks (unfired bricks), and clay mortar in Jericho."
+  },
+  {
+    "name": "well",
+    "date": -8400,
+    "lat": 35.1264,
+    "lng": 33.4299,
+    "location": "Cyprus",
+    "description": "Oldest known water well in Cyprus."
+  },
+  {
+    "name": "Alcohol fermentation",
+    "date": -7000,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China",
+    "description": "Alcohol fermentation – specifically mead, in China"
+  },
+  {
+    "name": "Sled dog",
+    "date": -7000,
+    "lat": 60.0,
+    "lng": 105.0,
+    "location": "Siberia",
+    "description": "Sled dog and Dog sled, in Siberia."
+  },
+  {
+    "name": "Kiln",
+    "date": -6000,
+    "lat": 33.0,
+    "lng": 44.0,
+    "location": "Mesopotamia",
+    "description": "Kiln in Mesopotamia (Iraq)"
+  },
+  {
+    "name": "Sailing",
+    "date": -5500,
+    "lat": 33.0,
+    "lng": 44.0,
+    "location": "Mesopotamia",
+    "description": "Sailing - pottery depictions of sail boats, in Mesopotamia, and later ancient Egypt"
+  },
+  {
+    "name": "Copper smelting",
+    "date": -5000,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Serbia",
+    "description": "Copper smelting in Serbia."
+  },
+  {
+    "name": "Seawall",
+    "date": -5000,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Tel Hreiz",
+    "description": "Seawall in Tel Hreiz, near Haifa, Israel."
+  },
+  {
+    "name": "Cotton",
+    "date": -5000,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Mehrgarh",
+    "description": "Cotton thread, in Mehrgarh, Pakistan, connecting the copper beads of a bracelet."
+  },
+  {
+    "name": "Rowing oars",
+    "date": -5000,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China",
+    "description": "– 4500 BC: Rowing oars in China"
+  },
+  {
+    "name": "Lost-wax casting",
+    "date": -4500,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Palestine",
+    "description": "– 3500 BC: Lost-wax casting in Palestine or the Indus Valley"
+  },
+  {
+    "name": "Fired bricks",
+    "date": -4400,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China",
+    "description": "Fired bricks in China."
+  },
+  {
+    "name": "sericulture",
+    "date": -3630,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China",
+    "description": "Silk garments (sericulture) in China"
+  },
+  {
+    "name": "general anaesthesia",
+    "date": -3500,
+    "lat": 31.0,
+    "lng": 46.0,
+    "location": "Sumer",
+    "description": "Wine as general anaesthesia in Sumer."
+  },
+  {
+    "name": "swords",
+    "date": -3300,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Arslantepe",
+    "description": "The first documented swords. They have been found in Arslantepe, Turkey, are made from arsenical bronze, and are about 60 cm (24 in) long. Some of them are inlaid with silver."
+  },
+  {
+    "name": "City",
+    "date": -3300,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Uruk",
+    "description": "City in Uruk, Sumer, Mesopotamia (modern-day Iraq)."
+  },
+  {
+    "name": "Ljubljana Marshes Wheel",
+    "date": -3200,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Slovenia",
+    "description": "Earliest actual wheel ever found, the Ljubljana Marshes Wheel, made of wood, in Slovenia."
+  },
+  {
+    "name": "Tin",
+    "date": -3000,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Central Asia",
+    "description": "Tin extraction in Central Asia"
+  },
+  {
+    "name": "Papyrus",
+    "date": -3000,
+    "lat": 26.8206,
+    "lng": 30.8025,
+    "location": "Egypt",
+    "description": "– 2560 BC: Papyrus in Egypt"
+  },
+  {
+    "name": "Reservoir",
+    "date": -3000,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Girnar",
+    "description": "Reservoir in Girnar, Indus Valley."
+  },
+  {
+    "name": "Receipt",
+    "date": -3000,
+    "lat": 33.0,
+    "lng": 44.0,
+    "location": "Ancient Mesopotamia",
+    "description": "Receipt in Ancient Mesopotamia (Iraq)"
+  },
+  {
+    "name": "Rhinoplasty",
+    "date": -3000,
+    "lat": 26.8206,
+    "lng": 30.8025,
+    "location": "Egypt",
+    "description": "– 2500 BC: Rhinoplasty in Egypt."
+  },
+  {
+    "name": "Planned city",
+    "date": -2600,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Indus Valley",
+    "description": "Planned city in Indus Valley."
+  },
+  {
+    "name": "Levee",
+    "date": -2600,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Indus Valley",
+    "description": "Levee in Indus Valley."
+  },
+  {
+    "name": "Fork",
+    "date": -2400,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "Bronze Age Qijia culture in China",
+    "description": "Fork in Bronze Age Qijia culture in China"
+  },
+  {
+    "name": "Dictionary",
+    "date": -2300,
+    "lat": 33.0,
+    "lng": 44.0,
+    "location": "Mesopotamia",
+    "description": "Dictionary in Mesopotamia."
+  },
+  {
+    "name": "Chariot",
+    "date": -2000,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Russia and Kazakhstan",
+    "description": "Chariot in Russia and Kazakhstan"
+  },
+  {
+    "name": "Scissors",
+    "date": -2000,
+    "lat": 33.0,
+    "lng": 44.0,
+    "location": "Mesopotamia",
+    "description": "Scissors, in Mesopotamia."
+  },
+  {
+    "name": "Proto-Sinaitic script",
+    "date": -1850,
+    "lat": 26.8206,
+    "lng": 30.8025,
+    "location": "Egypt",
+    "description": "Proto-alphabet (Proto-Sinaitic script) in Egypt."
+  },
+  {
+    "name": "Surgical treatise",
+    "date": -1600,
+    "lat": 26.8206,
+    "lng": 30.8025,
+    "location": "Egypt",
+    "description": "Surgical treatise appeared in Egypt."
+  },
+  {
+    "name": "Sundial",
+    "date": -1500,
+    "lat": 26.8206,
+    "lng": 30.8025,
+    "location": "Ancient Egypt",
+    "description": "Sundial in Ancient Egypt or Babylonia (modern-day Iraq)."
+  },
+  {
+    "name": "Concrete",
+    "date": -1400,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Tiryns",
+    "description": "– 1200 BC: Concrete in Tiryns (Mycenaean Greece),"
+  },
+  {
+    "name": "Lathe",
+    "date": -1300,
+    "lat": 26.8206,
+    "lng": 30.8025,
+    "location": "Ancient Egypt",
+    "description": "Lathe in Ancient Egypt."
+  },
+  {
+    "name": "Crossbow",
+    "date": -650,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China",
+    "description": "Crossbow in China."
+  },
+  {
+    "name": "Coins",
+    "date": -600,
+    "lat": 33.8547,
+    "lng": 35.8623,
+    "location": "Phoenicia",
+    "description": "Coins in Phoenicia (Modern Lebanon) or Lydia."
+  },
+  {
+    "name": "Lighthouse",
+    "date": -500,
+    "lat": 39.0742,
+    "lng": 21.8243,
+    "location": "Greece",
+    "description": "Lighthouse in Greece."
+  },
+  {
+    "name": "Catapult",
+    "date": -485,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Magadha",
+    "description": "Catapult by Ajatashatru in Magadha, India."
+  },
+  {
+    "name": "Ajatashatru",
+    "date": -485,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Magadha",
+    "description": "Scythed chariot by Ajatashatru in Magadha, India."
+  },
+  {
+    "name": "Spiral stairs",
+    "date": -480,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Selinunte",
+    "description": "Spiral stairs (Temple A) in Selinunte, Sicily (see also List of ancient spiral stairs)"
+  },
+  {
+    "name": "Food storage",
+    "date": -420,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Qesem cave",
+    "description": "– 200 kya: Food storage in the form of uncracked bones saved for their marrow in Qesem cave, Israel."
+  },
+  {
+    "name": "Iron pillar of Delhi",
+    "date": -400,
+    "lat": 20.5937,
+    "lng": 78.9629,
+    "location": "Mathura, Ancient India",
+    "description": "The construction of the Iron pillar of Delhi in Mathura by the Gupta Empire shows the development of rust-resistant ferrous metallurgy in Ancient India, although original texts do not survive to detai"
+  },
+  {
+    "name": "Animal-driven rotary mill",
+    "date": -375,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Carthage",
+    "description": "– 350 BC: Animal-driven rotary mill in Carthage."
+  },
+  {
+    "name": "Oil Wells",
+    "date": -347,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China",
+    "description": "Oil Wells and Borehole drilling in China. Such wells could reach depths of up to 240 m (790 ft)."
+  },
+  {
+    "name": "Chaturanga",
+    "date": -280,
+    "lat": 20.5937,
+    "lng": 78.9629,
+    "location": "India during the Gupta Empire",
+    "description": "– 550: Chaturanga, a precursor of Chess was invented in India during the Gupta Empire."
+  },
+  {
+    "name": "Compass",
+    "date": -206,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "Han dynasty China",
+    "description": "Compass in Han dynasty China"
+  },
+  {
+    "name": "Seismometer",
+    "date": -132,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "Han dynasty China",
+    "description": "Seismometer and pendulum in Han dynasty China, built by Zhang Heng. It is a large metal urn-shaped instrument which employed either a suspended pendulum or inverted pendulum acting on inertia, like th"
+  },
+  {
+    "name": "Representational",
+    "date": -55,
+    "lat": -0.7893,
+    "lng": 113.9213,
+    "location": "Indonesia",
+    "description": ".8–51.2 kya: Representational and Narrative art in Indonesia by Homo sapiens"
+  },
+  {
+    "name": "Glass blowing",
+    "date": -37,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Jerusalem",
+    "description": "– 14 BC: Glass blowing developed in Jerusalem."
+  },
+  {
+    "name": "Noodle",
+    "date": -25,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "Lajia in China",
+    "description": "Noodle in Lajia in China"
+  },
+  {
+    "name": "Star chart",
+    "date": -21,
+    "lat": 46.2276,
+    "lng": 2.2137,
+    "location": "France",
+    "description": "– 3.7 kya: Star chart in France, and later Spain, Kashmir, Germany, and Egypt."
+  },
+  {
+    "name": "Pottery",
+    "date": -20,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China",
+    "description": "– 16 kya: Pottery in China"
+  },
+  {
+    "name": "Chintz",
+    "date": -16,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Golconda",
+    "description": "th century: Chintz or printed clothing in Golconda, India"
+  },
+  {
+    "name": "Mainspring",
+    "date": -15,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Europe",
+    "description": "th century: Mainspring in Europe"
+  },
+  {
+    "name": "Canvas",
+    "date": -14,
+    "lat": 41.8719,
+    "lng": 12.5674,
+    "location": "Italy",
+    "description": "th century: Painting Canvas was first used in Italy."
+  },
+  {
+    "name": "Bidriware",
+    "date": -14,
+    "lat": 20.5937,
+    "lng": 78.9629,
+    "location": "India",
+    "description": "th century: Bidriware in the Bahmani Sultanate in India."
+  },
+  {
+    "name": "mechanical escapement",
+    "date": -13,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Europe",
+    "description": "th century: The earliest form of mechanical escapement, the verge escapement in Europe."
+  },
+  {
+    "name": "Buttons",
+    "date": -13,
+    "lat": 51.1657,
+    "lng": 10.4515,
+    "location": "Germany",
+    "description": "th century: Buttons (combined with buttonholes) as a functional fastening for closing clothes appear first in Germany."
+  },
+  {
+    "name": "Double-entry bookkeeping",
+    "date": -13,
+    "lat": 41.8719,
+    "lng": 12.5674,
+    "location": "Italy",
+    "description": "th century: Double-entry bookkeeping in Italy."
+  },
+  {
+    "name": "Worm gear cotton gin",
+    "date": -13,
+    "lat": 20.5937,
+    "lng": 78.9629,
+    "location": "India",
+    "description": "th century - 14th century: Worm gear cotton gin in India."
+  },
+  {
+    "name": "Bessemer process",
+    "date": -11,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China",
+    "description": "th century: Early versions of the Bessemer process are developed in China."
+  },
+  {
+    "name": "Calico",
+    "date": -11,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Calicut",
+    "description": "th century: Calico was developed in Calicut, India."
+  },
+  {
+    "name": "Domestication of sheep",
+    "date": -10,
+    "lat": 30.0,
+    "lng": 45.0,
+    "location": "Southwest Asia",
+    "description": ",000 BC – 9000 BC: Domestication of sheep in Southwest Asia (followed shortly by pigs, goats and cattle)"
+  },
+  {
+    "name": "Fire lance",
+    "date": -10,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "Song dynasty China",
+    "description": "th century: Fire lance in Song dynasty China, developed in the 10th century with a tube of first bamboo and later on metal that shot a weak gunpowder blast of flame and shrapnel, its earliest depictio"
+  },
+  {
+    "name": "Fireworks",
+    "date": -10,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China during the Song dynasty",
+    "description": "th century: Fireworks in Song dynasty China: Fireworks first appear in China during the Song dynasty (960–1279), in the early age of gunpowder. Fireworks could be purchased from market vendors; these "
+  },
+  {
+    "name": "Playing card",
+    "date": -9,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "Tang dynasty China",
+    "description": "th century: Playing card in Tang dynasty China"
+  },
+  {
+    "name": "Banknote",
+    "date": -7,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China during the Tang and Song dynasties",
+    "description": "th century: Banknote in Tang dynasty China: The banknote is first developed in China during the Tang and Song dynasties, starting in the 7th century. Its roots are in merchant receipts of deposit duri"
+  },
+  {
+    "name": "Irrigation",
+    "date": -6,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Khuzistan",
+    "description": "th millennium BC: Irrigation in Khuzistan, Iran"
+  },
+  {
+    "name": "Sushruta Samhita",
+    "date": -6,
+    "lat": 20.5937,
+    "lng": 78.9629,
+    "location": "Vedic Northern India",
+    "description": "th century – 2nd century BC: Systematization of medicine and surgery in the Sushruta Samhita in Vedic Northern India. Documented procedures to: Perform cataract surgery (couching). Babylonian and Egyp"
+  },
+  {
+    "name": "Lacquer",
+    "date": -5,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China",
+    "description": "th millennium BC: Lacquer in China"
+  },
+  {
+    "name": "Cast iron",
+    "date": -5,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China, Jiangsu province",
+    "description": "th century BC: Cast iron in Ancient China: Confirmed by archaeological evidence, the earliest cast iron is developed in China by the early 5th century BC during the Zhou dynasty (1122–256 BC), the old"
+  },
+  {
+    "name": "Pointed arch bridge",
+    "date": -5,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Cappadocia",
+    "description": "th century – 6th century: Pointed arch bridge (Karamagara Bridge) in Cappadocia, Eastern Roman Empire"
+  },
+  {
+    "name": "Traction trebuchet",
+    "date": -4,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "Ancient China",
+    "description": "th century BC: Traction trebuchet in Ancient China."
+  },
+  {
+    "name": "Gears",
+    "date": -4,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "Ancient China",
+    "description": "th century BC: Gears in Ancient China"
+  },
+  {
+    "name": "Reed pens",
+    "date": -4,
+    "lat": 26.8206,
+    "lng": 30.8025,
+    "location": "Egypt",
+    "description": "th century BC: Reed pens, utilising a split nib, were used to write with ink on Papyrus in Egypt."
+  },
+  {
+    "name": "Zinc production",
+    "date": -4,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Rajasthan",
+    "description": "th to 3rd century BC: Zinc production in North-Western India during the Maurya Empire. The earliest known zinc mines and smelting sites are from Zawar, near Udaipur, in Rajasthan."
+  },
+  {
+    "name": "Simple suspension bridge",
+    "date": -4,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Tibet",
+    "description": "th century: Simple suspension bridge, independently invented in Pre-Columbian South America, and the Hindu Kush range, of present-day Afghanistan and Pakistan. With Han dynasty travelers noting bridge"
+  },
+  {
+    "name": "Paddle wheel boat",
+    "date": -4,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Roman Empire",
+    "description": "th century – 5th century: Paddle wheel boat (in De rebus bellicis) in Roman Empire"
+  },
+  {
+    "name": "Analog computers",
+    "date": -3,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Rhodes",
+    "description": "rd century BC: Analog computers in the Hellenistic world (see e.g. the Antikythera mechanism), possibly in Rhodes."
+  },
+  {
+    "name": "Paper",
+    "date": -2,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "Han dynasty China",
+    "description": "nd century BC: Paper in Han dynasty China[g]"
+  },
+  {
+    "name": "Carding",
+    "date": -2,
+    "lat": 20.5937,
+    "lng": 78.9629,
+    "location": "India",
+    "description": "nd century: Carding in India."
+  },
+  {
+    "name": "arch bridge",
+    "date": -1,
+    "lat": 41.8719,
+    "lng": 12.5674,
+    "location": "Italy",
+    "description": "st century BC: Segmental arch bridge (e.g. Pont-Saint-Martin or Ponte San Lorenzo) in Italy, Roman Republic"
+  },
+  {
+    "name": "Arch dam",
+    "date": -1,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Gallia Narbonensis",
+    "description": "st century BC: Arch dam (Glanum Dam) in Gallia Narbonensis, Roman Republic (see also List of Roman dams)"
+  },
+  {
+    "name": "respiratory protective equipment",
+    "date": -1,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Roman mines from red lead oxide dust",
+    "description": "st century AD: The first use of respiratory protective equipment is documented by Pliny the Elder (c. 23 AD–79) using animal bladder skins to protect workers in Roman mines from red lead oxide dust."
+  },
+  {
+    "name": "Pendentive",
+    "date": 563,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Constantinople",
+    "description": "Pendentive dome (Hagia Sophia) in Constantinople, Eastern Roman Empire"
+  },
+  {
+    "name": "Sulfur matches",
+    "date": 577,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China",
+    "description": "Sulfur matches exist in China"
+  },
+  {
+    "name": "Toilet paper",
+    "date": 589,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "Sui dynasty China",
+    "description": "Toilet paper in Sui dynasty China, first mentioned by the official Yan Zhitui (531–591), with full evidence of continual use in subsequent dynasties."
+  },
+  {
+    "name": "Toothbrush",
+    "date": 619,
+    "lat": 35.0,
+    "lng": 105.0,
+    "location": "China during the Tang dynasty",
+    "description": "Toothbrush in China during the Tang dynasty"
+  },
+  {
+    "name": "Greek fire",
+    "date": 672,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Constantinople",
+    "description": "Greek fire in Constantinople, Byzantine Empire: Greek fire, an incendiary weapon likely based on petroleum or naphtha, is invented by Kallinikos, a Lebanese Greek refugee from Baalbek, as described by"
+  },
+  {
+    "name": "Fountain pen",
+    "date": 974,
+    "lat": 26.8206,
+    "lng": 30.8025,
+    "location": "Arab Egypt",
+    "description": "Fountain pen: invented at the request of al-Mu'izz li-Din Allah in Arab Egypt."
+  },
+  {
+    "name": "Eyeglasses",
+    "date": 1286,
+    "lat": 41.8719,
+    "lng": 12.5674,
+    "location": "Italy",
+    "description": "Eyeglasses in Italy"
+  },
+  {
+    "name": "Brace",
+    "date": 1420,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Flanders",
+    "description": "s: Brace in Flanders, Holy Roman Empire"
+  },
+  {
+    "name": "Printing press",
+    "date": 1439,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Mainz",
+    "description": "Printing press in Mainz, Germany: The printing press is invented in the Holy Roman Empire by Johannes Gutenberg before 1440, based on existing screw presses. The first confirmed record of a press appe"
+  },
+  {
+    "name": "Mariner's astrolabe",
+    "date": 1480,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Portuguese circumnavigation of Africa",
+    "description": "s: Mariner's astrolabe in Portuguese circumnavigation of Africa"
+  },
+  {
+    "name": "Floating dry dock",
+    "date": 1560,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Venice",
+    "description": "Floating dry dock in Venice, Venetian Republic"
+  },
+  {
+    "name": "Newspaper",
+    "date": 1605,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Strassburg",
+    "description": "Newspaper (Relation): Johann Carolus in Strassburg (see also List of the oldest newspapers)"
+  },
+  {
+    "name": "Compound microscopes",
+    "date": 1620,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Europe",
+    "description": "Compound microscopes, which combine an objective lens with an eyepiece to view a real image, first appear in Europe. Apparently derived from the telescope, actual inventor unknown, variously attribute"
+  },
+  {
+    "name": "Alessandro Volta",
+    "date": 1800,
+    "lat": 41.8719,
+    "lng": 12.5674,
+    "location": "Italy",
+    "description": "Alessandro Volta invents the voltaic pile, an early form of battery in Italy, based on previous works by Luigi Galvani."
+  },
+  {
+    "name": "James Harrison",
+    "date": 1856,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Geelong",
+    "description": "James Harrison produces the world's first practical ice making machine and refrigerator using the principle of vapour compression in Geelong, Australia."
+  },
+  {
+    "name": "Surgical masks",
+    "date": 1897,
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "location": "Europe, Paris",
+    "description": "Surgical masks made of cloth were developed in Europe by physicians Jan Mikulicz-Radecki at the University of Breslau and Paul Berger in Paris, as a result of increasing awareness of germ theory and t"
+  },
+  {
+    "name": "tanks",
+    "date": 1915,
+    "lat": 46.2276,
+    "lng": 2.2137,
+    "location": "Great Britain and France",
+    "description": "The first operational military tanks are designed in Great Britain and France. They are used in battle from 1916 and 1917 respectively. The designers in Great Britain are Walter Wilson and William Tri"
+  },
+  {
+    "name": "Nippon Telegraph and Telephone",
+    "date": 1979,
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "location": "Japan",
+    "description": "Nippon Telegraph and Telephone (NTT) launched the first cellular network in Japan."
+  },
+  {
+    "name": "AT&T",
+    "date": 1983,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Chicago",
+    "description": "Ameritech, now known as AT&T, commercialized the Bell System (its cellular network) in Chicago, Ill."
+  },
+  {
+    "name": "cheese",
+    "date": 5500,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Poland and on the Dalmatian coast of Croatia",
+    "description": "– 5200 BC: Oldest evidence of cheese found, in Poland and on the Dalmatian coast of Croatia."
+  },
+  {
+    "name": "salt production",
+    "date": 5900,
+    "lat": 0.0,
+    "lng": 20.0,
+    "location": "Southeastern Europe",
+    "description": "– 5600 BC: Oldest evidence of salt production found in Southeastern Europe, in the countries of Moldova and Romania."
+  }
+]
